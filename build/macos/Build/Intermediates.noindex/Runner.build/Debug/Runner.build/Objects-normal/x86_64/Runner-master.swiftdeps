@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "0c3610c0f336c3bbb149cc0e8aefc7ae"
+build_time: [1698061129, 831797000]
+inputs:
+  "/Users/student9/Desktop/qwert/closet/macos/Runner/MainFlutterWindow.swift": [1698056589, 984380423]
+  "/Users/student9/Desktop/qwert/closet/macos/Runner/AppDelegate.swift": [1698056589, 980616600]
+  "/Users/student9/Desktop/qwert/closet/macos/Flutter/GeneratedPluginRegistrant.swift": [1698061117, 352187741]
